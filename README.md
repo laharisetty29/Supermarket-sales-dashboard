@@ -29,4 +29,4 @@ This project is a Power BI dashboard created to analyze supermarket sales data.
 
 ## 👩‍💻 Author
 
-Naga Nandeswari
+Lahari Gadamsetty 
